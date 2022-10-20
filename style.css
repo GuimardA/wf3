@@ -1,0 +1,13 @@
+img{
+    width: 500px;
+    height: 450px;
+    display: block;
+  
+}
+
+section{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
